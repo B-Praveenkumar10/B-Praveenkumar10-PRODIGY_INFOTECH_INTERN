@@ -32,11 +32,11 @@ To run this notebook, you will need the following:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/B-Praveenkumar10/PRODIGY_INFOTECH_INTERN/PRODIGY_ML_03.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd your-repo-name
+   cd PRODIGY_INFOTECH_INTERN/PRODIGY_ML_03
    ```
 3. **Install the required libraries**:
    ```bash
