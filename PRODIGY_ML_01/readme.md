@@ -1,5 +1,5 @@
 
-# Machine Learning Task 01
+# Linear Regression
 
 This project is a machine learning task focused on data analysis and building a regression model using Python. The task involves reading data, performing exploratory data analysis, and applying a linear regression model.
 
