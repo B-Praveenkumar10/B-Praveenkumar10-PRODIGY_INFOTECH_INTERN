@@ -1,5 +1,5 @@
 
-# ML_TASK_02.ipynb
+# KMeans Clustering.ipynb
 
 This repository contains the Jupyter Notebook `ML_TASK_02.ipynb`, which is designed for [brief description of the task, e.g., a machine learning project focused on classification of images, analysis of a specific dataset, etc.].
 
